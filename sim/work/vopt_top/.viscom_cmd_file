@@ -1,0 +1,1 @@
+/home/dinhanh/Downloads/questa_install/questasim/linux_x86_64/VisualizerRls/bin/viscom -nolock -quiet -jmem_size 89997600 +acc top -o vopt_top +designfile +__betafsm
