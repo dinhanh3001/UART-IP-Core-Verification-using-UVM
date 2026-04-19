@@ -122,5 +122,9 @@ Reading pref.tcl
 # End time: 23:37:36 on Mar 28,2026, Elapsed time: 0:00:02
 # Errors: 0, Warnings: 0
 ```
+## Testbench: 
+<img width="1869" height="629" alt="image" src="https://github.com/user-attachments/assets/75f4ca30-f3e6-43e8-85bd-33c1a4ae70d1" />
+
 ## Coverage: 
+<img width="1272" height="571" alt="image" src="https://github.com/user-attachments/assets/f24ae3df-11b4-4c32-b4e2-c4dd0e8d97c2" />
 
